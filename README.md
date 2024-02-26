@@ -46,7 +46,7 @@ Ensure your CSV file follows this format:
 ```csv
 SourcePath,DestinationPath
 C:\Source\Path1,C:\Destination\Path1
-C:\Source\Path2,C:\Destination\Path2,
+C:\Source\Path2,C:\Destination\Path2
 ```
 
 - `SourcePath`: The source directory path.
